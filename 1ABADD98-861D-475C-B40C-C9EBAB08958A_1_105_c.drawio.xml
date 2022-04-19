@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2022-04-19T17:44:54.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="ap66-6OAiRV7HHMx1iAT" version="17.4.5" type="github">
+  <diagram id="RoVFnfkJcjtBHGh3iuS6" name="Page-1">
+    <mxGraphModel dx="1687" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VvzWukxZ8CCvLA5wxklX-1" value="&lt;font style=&quot;font-size: 30px&quot;&gt;DIFFEOMORFISMUL&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="135" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VvzWukxZ8CCvLA5wxklX-2" value="$$Y_{C-(D\rightarrow B)} \rightarrow Y_{AL-(D \rightarrow B)}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="190" width="860" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VvzWukxZ8CCvLA5wxklX-3" value="$$Z_{BB} \rightarrow Z_{VB}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="30" y="280" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VvzWukxZ8CCvLA5wxklX-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="120" y="181" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VvzWukxZ8CCvLA5wxklX-5" value="&lt;br&gt;$$Z_{BB}=X_{CB}+Y_{C-(\dots)}$$&lt;br&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="140" y="380" width="480" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VvzWukxZ8CCvLA5wxklX-6" value="$$Z_{VB}=X_{DB}+Y_{AL-(\dots)}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="140" y="450" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VvzWukxZ8CCvLA5wxklX-7" value="cu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="140" y="360" width="50" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
