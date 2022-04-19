@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2022-04-19T10:10:48.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="52zhgFTq1_aMmJvR9mC2" version="17.4.5" type="github">
+  <diagram id="xHxS1FO5NhL3ngdbkuvo" name="Page-1">
+    <mxGraphModel dx="780" dy="1772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Bmo06gjomzRoJFMpWPnq-1" value="&lt;font style=&quot;font-size: 50px&quot; color=&quot;#ff0000&quot;&gt;ALEGEREA&lt;br&gt;CONVENABILA&lt;br&gt;a PARADIGMEI&lt;br&gt;in conformitate&amp;nbsp;&lt;br&gt;cu care se &lt;br&gt;REALIZEAZA &lt;br&gt;INTERPRETAREA&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="70" width="430" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
