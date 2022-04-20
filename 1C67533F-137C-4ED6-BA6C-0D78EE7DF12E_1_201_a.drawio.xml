@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2022-04-20T13:34:54.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="4s4VW_YTxzPy2xV_aUth" version="17.4.5" type="github">
+  <diagram id="n6NQWoTWBs2dOPxRcb8K" name="Page-1">
+    <mxGraphModel dx="326" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h36wTW_RBd5RdW4tOd0O-1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;SHIFT&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="53" y="190" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="h36wTW_RBd5RdW4tOd0O-2" value="&lt;font style=&quot;font-size: 40px&quot; color=&quot;#ff0000&quot;&gt;SWIN&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="45" y="240" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h36wTW_RBd5RdW4tOd0O-3" value="SWAP&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="45" y="300" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h36wTW_RBd5RdW4tOd0O-4" value="&lt;font color=&quot;#069968&quot;&gt;SWITCH&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="45" y="350" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h36wTW_RBd5RdW4tOd0O-5" value="&lt;font color=&quot;#ff0000&quot;&gt;STITCH&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="45" y="400" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h36wTW_RBd5RdW4tOd0O-6" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;fontSize=40;fontColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="53" y="270" width="26" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="h36wTW_RBd5RdW4tOd0O-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=40;fontColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="65" y="280" as="sourcePoint" />
+            <mxPoint x="90" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="65" y="290" />
+              <mxPoint x="45" y="290" />
+              <mxPoint x="45" y="250" />
+              <mxPoint x="45" y="220" />
+              <mxPoint x="90" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
