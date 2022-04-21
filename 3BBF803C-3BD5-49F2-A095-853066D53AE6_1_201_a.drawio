@@ -1,1 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T18:16:39.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.6" etag="frqKw7iUrS37uU8oyxv1" type="github"><diagram id="_vn_rd82E5sP7SpqYam_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-21T18:22:22.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="G12Bq6A7MOpD5vC3rg5d" version="17.4.6" type="github">
+  <diagram id="_vn_rd82E5sP7SpqYam_" name="Page-1">
+    <mxGraphModel dx="684" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Me4OqzFKOxoCdpUHxFG0-1" value="&lt;font color=&quot;#0000c4&quot; style=&quot;font-size: 30px&quot;&gt;CHOICE as&lt;br&gt;SELF-SURGERY.&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="135" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Me4OqzFKOxoCdpUHxFG0-2" value="ALL EXTERNALLY-&lt;br&gt;PERSISTENT&lt;br&gt;CHOICES are&lt;br&gt;FORMS of&amp;nbsp;&lt;br&gt;INTERNAL&lt;br&gt;SELF-SURGERY." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="20" y="220" width="280" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Me4OqzFKOxoCdpUHxFG0-4" value="on the&amp;nbsp;&lt;br&gt;REVOKABILITY&lt;br&gt;of CHOICE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="405" y="160" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Me4OqzFKOxoCdpUHxFG0-5" value="IRREVOCABLE&lt;br&gt;(WRITE-ONCE)CHOICE&lt;br&gt;as SELF-SURGERY." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="345" y="330" width="350" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Me4OqzFKOxoCdpUHxFG0-6" value="" style="endArrow=classic;html=1;fontSize=30;fontColor=#0000C4;entryX=0.004;entryY=0.584;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeColor=#0000C4;" edge="1" parent="1" target="Me4OqzFKOxoCdpUHxFG0-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="355" as="sourcePoint" />
+            <mxPoint x="290" y="305" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Me4OqzFKOxoCdpUHxFG0-7" value="" style="endArrow=none;html=1;fontSize=30;fontColor=#0000C4;strokeColor=#0000C4;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="35" y="200" as="sourcePoint" />
+            <mxPoint x="290" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="105" y="180" />
+              <mxPoint x="205" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Me4OqzFKOxoCdpUHxFG0-8" value="" style="endArrow=none;html=1;fontSize=30;fontColor=#0000C4;strokeColor=#0000C4;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="35" y="210" as="sourcePoint" />
+            <mxPoint x="290" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="105" y="190" />
+              <mxPoint x="205" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Me4OqzFKOxoCdpUHxFG0-9" value="" style="endArrow=none;html=1;fontSize=30;fontColor=#0000C4;strokeColor=#0000C4;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="140" as="sourcePoint" />
+            <mxPoint x="635" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="120" />
+              <mxPoint x="550" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Me4OqzFKOxoCdpUHxFG0-10" value="" style="endArrow=none;html=1;fontSize=30;fontColor=#0000C4;strokeColor=#0000C4;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="280" as="sourcePoint" />
+            <mxPoint x="635" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="260" />
+              <mxPoint x="550" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
