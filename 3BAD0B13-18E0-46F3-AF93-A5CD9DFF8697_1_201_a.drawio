@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T18:12:40.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.6" etag="gYD4104mBpQKzzDEQO3g" type="github"><diagram id="KlHfYUPyV6-XxrW1o5ji">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-21T18:15:53.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="9pLyGbF7FK0Il1RQRGWS" version="17.4.6" type="github">
+  <diagram id="KlHfYUPyV6-XxrW1o5ji" name="Page-1">
+    <mxGraphModel dx="684" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RdTof1mHrONJM0s5wOgv-1" value="&lt;font style=&quot;font-size: 30px&quot; color=&quot;#0000c4&quot;&gt;estimarea&amp;nbsp;&lt;br&gt;si parcurgerea&lt;br&gt;CONTURULUI&lt;br&gt;IMPRE-JURIMILOR&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="140" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RdTof1mHrONJM0s5wOgv-2" value="$$\mathcal{Palatului}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry y="250" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RdTof1mHrONJM0s5wOgv-3" value="MINTII&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="239" y="250" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RdTof1mHrONJM0s5wOgv-4" value="unui INTER-LOCUTOR." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="55" y="280" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RdTof1mHrONJM0s5wOgv-5" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;fontSize=30;fontColor=#0000C4;strokeColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="70" y="100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RdTof1mHrONJM0s5wOgv-6" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;fontSize=30;fontColor=#0000C4;strokeColor=#0000C4;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="380" y="300" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
