@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T13:27:30.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.6" etag="94tzQLjnf89Xa7V5Pj6z" type="github"><diagram id="ao1pVkzlc-OnDUWH31oD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-22T13:31:55.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="9k6rmXnNqpPIhIe3pkqG" version="17.4.6" type="github">
+  <diagram id="ao1pVkzlc-OnDUWH31oD" name="Page-1">
+    <mxGraphModel dx="687" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Mn6bonQuTWBRIBNI_aKE-1" value="&lt;font style=&quot;font-size: 30px&quot; color=&quot;#0000c4&quot;&gt;$$\Delta t$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn6bonQuTWBRIBNI_aKE-2" value="p - q -" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="200" y="125" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn6bonQuTWBRIBNI_aKE-3" value="- DURABLE PROOF" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="327" y="125" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn6bonQuTWBRIBNI_aKE-4" value="(see)SKIN&amp;nbsp; &amp;nbsp; &amp;nbsp;(hear)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn6bonQuTWBRIBNI_aKE-5" value="$$\leadsto$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="264" y="200" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn6bonQuTWBRIBNI_aKE-6" value="$$\mathbb{Q}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="361" y="201" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn6bonQuTWBRIBNI_aKE-7" value="-PROMISE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="490" y="201" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
