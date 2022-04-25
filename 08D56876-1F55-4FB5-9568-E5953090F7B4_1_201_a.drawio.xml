@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2022-04-25T15:43:29.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Ewm-dbLEhB5JZRn22T2L" version="17.4.6" type="github">
+  <diagram id="OLyfm4OVxhs7zthjtG6X" name="Page-1">
+    <mxGraphModel dx="680" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="58zobVKGVxaJ-Daip3-8-1" value="&lt;font style=&quot;font-size: 30px&quot; color=&quot;#ff0000&quot;&gt;eg. THOUGHTS &amp;amp;&lt;br&gt;PRAYERS&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="195" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="58zobVKGVxaJ-Daip3-8-2" value="EVOKABLE&lt;br&gt;NON-INVOKABLES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="58zobVKGVxaJ-Daip3-8-3" value="" style="endArrow=classic;html=1;fontSize=30;fontColor=#FF0000;strokeColor=#FF0000;curved=1;entryX=0.179;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="58zobVKGVxaJ-Daip3-8-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="220" as="sourcePoint" />
+            <mxPoint x="300" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="240" />
+              <mxPoint x="310" y="260" />
+              <mxPoint x="290" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="58zobVKGVxaJ-Daip3-8-4" value="" style="endArrow=none;html=1;fontSize=30;fontColor=#FF0000;strokeColor=#FF0000;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="180" as="sourcePoint" />
+            <mxPoint x="540" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="160" />
+              <mxPoint x="480" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="58zobVKGVxaJ-Daip3-8-5" value="" style="endArrow=none;html=1;fontSize=30;fontColor=#FF0000;strokeColor=#FF0000;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="270" as="sourcePoint" />
+            <mxPoint x="480" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="250" />
+              <mxPoint x="420" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
