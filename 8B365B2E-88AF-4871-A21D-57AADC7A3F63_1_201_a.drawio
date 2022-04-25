@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T15:36:17.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.6" etag="yvWHK4W4xXStZkZFAXpL" type="github"><diagram id="IJUmMf9DUUCLMNG2baSJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-25T15:39:35.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="xt7Sg3srHH1uEiqSIP4g" version="17.4.6" type="github">
+  <diagram id="IJUmMf9DUUCLMNG2baSJ" name="Page-1">
+    <mxGraphModel dx="680" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tbat0CzgXlx47mYoO3hJ-1" value="&lt;span style=&quot;font-size: 40px&quot;&gt;FISCALIZAREA&lt;br&gt;MEDITATIILOR&lt;br&gt;pe BLOCKCHAIN&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="150" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tbat0CzgXlx47mYoO3hJ-3" value="Open&lt;br&gt;Market" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="180" y="320" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tbat0CzgXlx47mYoO3hJ-4" value="Open&lt;br&gt;ACCESS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="315" y="320" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tbat0CzgXlx47mYoO3hJ-5" value="" style="endArrow=none;html=1;rounded=0;fontSize=30;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="280" as="sourcePoint" />
+            <mxPoint x="410" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tbat0CzgXlx47mYoO3hJ-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=30;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="110" as="sourcePoint" />
+            <mxPoint x="410" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tbat0CzgXlx47mYoO3hJ-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=30;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="410" as="sourcePoint" />
+            <mxPoint x="300" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tbat0CzgXlx47mYoO3hJ-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=30;" edge="1" parent="1" target="tbat0CzgXlx47mYoO3hJ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="260" as="sourcePoint" />
+            <mxPoint x="170" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
