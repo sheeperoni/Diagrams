@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2022-04-26T16:08:44.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="H8O8TakepOl0Wx6UxwnZ" version="17.4.6" type="github">
+  <diagram id="FU-uN3EeOVr6s9dMjYRS" name="Page-1">
+    <mxGraphModel dx="681" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dLWld3FRdloj_BG0zsnt-2" value="&lt;font color=&quot;#0000c4&quot;&gt;&quot;nu-l deschide,&lt;br&gt;doar adu-l&quot;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dLWld3FRdloj_BG0zsnt-3" value="ARRESTED&lt;br&gt;(ENTRAPED)&lt;br&gt;DEVELOPMENT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;fontColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="400" y="175" width="320" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dLWld3FRdloj_BG0zsnt-4" value="" style="endArrow=none;html=1;rounded=0;fontSize=40;fontColor=#0000C4;strokeColor=#0000C4;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="325" as="sourcePoint" />
+            <mxPoint x="350" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLWld3FRdloj_BG0zsnt-5" value="" style="endArrow=none;html=1;rounded=0;fontSize=40;fontColor=#0000C4;strokeColor=#0000C4;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="175" as="sourcePoint" />
+            <mxPoint x="350" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLWld3FRdloj_BG0zsnt-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=40;fontColor=#0000C4;strokeColor=#0000C4;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="174" as="sourcePoint" />
+            <mxPoint x="660" y="174" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLWld3FRdloj_BG0zsnt-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=40;fontColor=#0000C4;strokeColor=#0000C4;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="324" as="sourcePoint" />
+            <mxPoint x="670" y="324" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
