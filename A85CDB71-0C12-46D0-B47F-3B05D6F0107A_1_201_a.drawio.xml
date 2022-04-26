@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2022-04-26T14:56:38.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="jpXccFu8i8FvvS9-kPf9" version="17.4.6" type="github">
+  <diagram id="R9VPMOjDSQH0Mnumpjcb" name="Page-1">
+    <mxGraphModel dx="681" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="egshrfxLw_enolIXKhNX-1" value="&lt;font style=&quot;font-size: 40px&quot;&gt;SFORILE&amp;nbsp;&lt;br&gt;GLOBALE&amp;nbsp;&lt;br&gt;ale BANULUI&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="170" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="egshrfxLw_enolIXKhNX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="85" y="120" width="290" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
