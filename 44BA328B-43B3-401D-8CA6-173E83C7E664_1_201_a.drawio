@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T17:53:17.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.6" etag="wjPb8FQ9LIWCPpD1NVJz" type="github"><diagram id="htyMaiwMrPho2nzeNUUo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-28T18:01:09.924Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="VudfTxBgetOy0udkMv7X" version="17.4.6" type="github">
+  <diagram id="htyMaiwMrPho2nzeNUUo" name="Page-1">
+    <mxGraphModel dx="1713" dy="1848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PRsWCS1iDuzdVmfPvlum-1" value="&lt;font style=&quot;font-size: 40px&quot; color=&quot;#0000c4&quot;&gt;&quot;UNBRIDLED&lt;br&gt;ENTHUSIASM&quot;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="215" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PRsWCS1iDuzdVmfPvlum-2" value="Cersetoria e doar&lt;br&gt;o strategie de NEGOCIERE&lt;br&gt;incorporata SENTIENTULUI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;fontColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="85" y="450" width="520" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="PRsWCS1iDuzdVmfPvlum-3" value="" style="endArrow=none;html=1;rounded=0;fontSize=40;fontColor=#0000C4;strokeColor=#0000C4;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="290" as="sourcePoint" />
+            <mxPoint x="485" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRsWCS1iDuzdVmfPvlum-4" value="" style="endArrow=none;html=1;rounded=0;fontSize=40;fontColor=#0000C4;strokeColor=#0000C4;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="190" as="sourcePoint" />
+            <mxPoint x="485" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRsWCS1iDuzdVmfPvlum-5" value="" style="endArrow=none;html=1;rounded=0;fontSize=40;fontColor=#0000C4;strokeColor=#0000C4;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="155" y="450" as="sourcePoint" />
+            <mxPoint x="395" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRsWCS1iDuzdVmfPvlum-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=40;fontColor=#0000C4;strokeColor=#0000C4;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="600" as="sourcePoint" />
+            <mxPoint x="645" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRsWCS1iDuzdVmfPvlum-7" value="Single-Points of Trust&lt;br&gt;are Single-Points of &lt;u&gt;Failure&lt;/u&gt;&lt;br&gt;and always provide good&lt;br&gt;leverage for chokeholding&lt;br&gt;the free will of agents." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;fontColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="720" y="130" width="500" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="PRsWCS1iDuzdVmfPvlum-8" value="Searchable Enclave&lt;br&gt;Separately Encrypted&lt;br&gt;Lookup &lt;u&gt;Key&lt;/u&gt; &amp;amp; Stowed &lt;u&gt;Value&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;fontColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="710" y="560" width="520" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="PRsWCS1iDuzdVmfPvlum-9" value="Cost of Opening Enclave" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;fontColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="710" y="770" width="460" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PRsWCS1iDuzdVmfPvlum-10" value="JOURNALING the ACCESS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;fontColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="820" y="870" width="510" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PRsWCS1iDuzdVmfPvlum-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=40;fontColor=#0000C4;strokeColor=#0000C4;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="820" as="sourcePoint" />
+            <mxPoint x="820" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRsWCS1iDuzdVmfPvlum-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fontColor=#0000C4;fillColor=none;strokeColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="500" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="PRsWCS1iDuzdVmfPvlum-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fontColor=#0000C4;fillColor=none;strokeColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="710" y="110" width="520" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="PRsWCS1iDuzdVmfPvlum-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fontColor=#0000C4;fillColor=none;strokeColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="710" y="545" width="520" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="PRsWCS1iDuzdVmfPvlum-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fontColor=#0000C4;fillColor=none;strokeColor=#0000C4;" vertex="1" parent="1">
+          <mxGeometry x="710" y="760" width="630" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
