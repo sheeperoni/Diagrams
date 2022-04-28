@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T10:12:36.842Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.6" etag="Ft-i9UU265pK4HxOo94d" type="github"><diagram id="13nnzaNeSaG1pgD6uYYy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-28T10:15:19.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="A_NhEN6XM8Fj5ryTBUhD" version="17.4.6" type="github">
+  <diagram id="13nnzaNeSaG1pgD6uYYy" name="Page-1">
+    <mxGraphModel dx="1535" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="46Vg0Z9k19az6B4fD-VL-1" value="&lt;font style=&quot;font-size: 40px&quot;&gt;CATEGORIA &quot;BAJMATR&quot;&lt;br&gt;TRANS-BORDARILOR&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="160" width="470" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="46Vg0Z9k19az6B4fD-VL-2" value="$$\delta LOCUS \otimes \delta TOPOS$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="230" width="750" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="46Vg0Z9k19az6B4fD-VL-3" value="" style="endArrow=none;html=1;rounded=0;fontSize=40;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="280" as="sourcePoint" />
+            <mxPoint x="170" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46Vg0Z9k19az6B4fD-VL-4" value="" style="endArrow=none;html=1;rounded=0;fontSize=40;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="280" as="sourcePoint" />
+            <mxPoint x="410" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46Vg0Z9k19az6B4fD-VL-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=40;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-4" y="130" as="sourcePoint" />
+            <mxPoint x="436" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
