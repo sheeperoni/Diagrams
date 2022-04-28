@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T17:47:19.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.6" etag="c2gwOp5nzKx2dVVEYuJM" type="github"><diagram id="bNy5l5rAAQ3o0jNC1DEq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-28T17:48:20.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="MLFZC2UZfzrPYa3Q_hjF" version="17.4.6" type="github">
+  <diagram id="bNy5l5rAAQ3o0jNC1DEq" name="Page-1">
+    <mxGraphModel dx="685" dy="1839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GUv4KBudtAvH6IyYUqoS-1" value="&lt;font style=&quot;font-size: 40px&quot;&gt;DESPRE&lt;br&gt;ZGOMOTUL de&lt;br&gt;FOND al&amp;nbsp;&lt;br&gt;ECONOMIEI&amp;nbsp;&lt;br&gt;care PERMEAZA&lt;br&gt;in EDUCATIA&lt;br&gt;TIMPURIE&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="55" width="320" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="GUv4KBudtAvH6IyYUqoS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="-35" width="330" height="350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
