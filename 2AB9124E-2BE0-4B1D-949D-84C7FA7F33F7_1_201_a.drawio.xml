@@ -1,29 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2022-04-20T12:52:16.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="VwmLs4BgRSJwOuh9sqeP" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-01T20:15:32.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="tsVFP5uGgNsXaTA7TYe0" version="17.5.0" type="github">
   <diagram id="ODMseS2E1xcLTwImyh1R" name="Page-1">
-    <mxGraphModel dx="1888" dy="1331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1481" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Lm3bDgJhagwHoH0R_qQe-2" value="[x] - SINELE&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; PROIECTAT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+        <mxCell id="Lm3bDgJhagwHoH0R_qQe-2" value="[x] - SINELE&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; PROIECTAT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="-10" y="80" width="300" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Lm3bDgJhagwHoH0R_qQe-3" value="$$\frac{\delta S}{\delta t} = ch(\mathcal{I}([x],S))$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="210" width="680" height="40" as="geometry" />
+        <mxCell id="Lm3bDgJhagwHoH0R_qQe-3" value="$$\frac{\partial S}{\partial t} = ch(\mathcal{I}([x],S))$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" parent="1" vertex="1">
+          <mxGeometry x="-205" y="210" width="710" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lm3bDgJhagwHoH0R_qQe-4" value="$$S\;&#39; = ch(S)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+        <mxCell id="Lm3bDgJhagwHoH0R_qQe-4" value="$$S\;&#39; = ch(S)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="12" y="295" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lm3bDgJhagwHoH0R_qQe-5" value="$$\mathcal{I} = \mathcal{P}(S\;&#39; \otimes [x])$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+        <mxCell id="Lm3bDgJhagwHoH0R_qQe-5" value="$$\mathcal{I} = \mathcal{P}(S\;&#39; \otimes [x])$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="-170" y="370" width="620" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lm3bDgJhagwHoH0R_qQe-7" value="$$\mathcal{I}=\mathcal{P}(ch(S)\otimes [x])$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+        <mxCell id="Lm3bDgJhagwHoH0R_qQe-7" value="$$\mathcal{I}=\mathcal{P}(ch(S)\otimes [x])$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="-150" y="410" width="620" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lm3bDgJhagwHoH0R_qQe-8" value="COMPOZITORUL-&lt;br&gt;-GENERATOR&lt;br&gt;VAZUT ca&amp;nbsp;&lt;br&gt;un ORDINATOR&lt;br&gt;(elector de&lt;br&gt;ORDONANTARE,&lt;br&gt;totala sau partial)&lt;br&gt;al unei MEMORII ASOCIATIVE." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+        <mxCell id="Lm3bDgJhagwHoH0R_qQe-8" value="COMPOZITORUL-&lt;br&gt;-GENERATOR&lt;br&gt;VAZUT ca&amp;nbsp;&lt;br&gt;un ORDINATOR&lt;br&gt;(elector de&lt;br&gt;ORDONANTARE,&lt;br&gt;totala sau partial)&lt;br&gt;al unei MEMORII ASOCIATIVE." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="350" y="130" width="440" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="Lm3bDgJhagwHoH0R_qQe-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Lm3bDgJhagwHoH0R_qQe-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="345" y="120" width="450" height="310" as="geometry" />
         </mxCell>
       </root>
