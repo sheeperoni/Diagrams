@@ -1,17 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2022-04-23T17:47:09.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="mWUgElCEJ3BXDE6aPyL8" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-01T20:00:31.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="p7KoVggnLYDdv3rkMxrB" version="17.5.0" type="github">
   <diagram id="ksa6zAtMUNvU3ZGNWvoA" name="Page-1">
-    <mxGraphModel dx="1424" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1751" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gObXNK3mirsXqVDHXeN_-1" value="&lt;font style=&quot;font-size: 40px&quot;&gt;$$\frac{\delta ACTION}{\delta AUCTION}::$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="175" width="800" height="30" as="geometry" />
+        <mxCell id="gObXNK3mirsXqVDHXeN_-1" value="&lt;font style=&quot;font-size: 40px&quot;&gt;$$\frac{\partial ACTION}{\partial AUCTION}::$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-155" y="170" width="850" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gObXNK3mirsXqVDHXeN_-3" value="&amp;nbsp; &amp;nbsp;near : ...enum();&lt;br&gt;far : ...enum();" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" vertex="1" parent="1">
+        <mxCell id="gObXNK3mirsXqVDHXeN_-3" value="&amp;nbsp; &amp;nbsp;near : ...enum();&lt;br&gt;far : ...enum();" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" parent="1" vertex="1">
           <mxGeometry x="105" y="270" width="330" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="gObXNK3mirsXqVDHXeN_-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=40;" edge="1" parent="1">
+        <mxCell id="gObXNK3mirsXqVDHXeN_-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=40;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="240" as="sourcePoint" />
             <mxPoint x="140" y="300" as="targetPoint" />
@@ -20,7 +19,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gObXNK3mirsXqVDHXeN_-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=40;" edge="1" parent="1">
+        <mxCell id="gObXNK3mirsXqVDHXeN_-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=40;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="280.0000000000001" as="sourcePoint" />
             <mxPoint x="140" y="340.0000000000001" as="targetPoint" />
@@ -29,13 +28,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gObXNK3mirsXqVDHXeN_-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=40;" edge="1" parent="1">
+        <mxCell id="gObXNK3mirsXqVDHXeN_-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=40;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="313" as="sourcePoint" />
             <mxPoint x="220" y="313" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gObXNK3mirsXqVDHXeN_-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=40;" edge="1" parent="1">
+        <mxCell id="gObXNK3mirsXqVDHXeN_-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=40;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="157" y="364" as="sourcePoint" />
             <mxPoint x="187" y="364" as="targetPoint" />
