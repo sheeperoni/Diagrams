@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2022-04-28T17:52:24.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="8PDoH1avilX5G2_t2lBV" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T15:28:57.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ga8cmQ035F_IffFPUgRA" version="17.5.0" type="github">
   <diagram id="lFvm8D9bo7-CUKGmvZUh" name="Page-1">
-    <mxGraphModel dx="685" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="639" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YdSJETgR0C2G26BqsnBO-1" value="&lt;font style=&quot;font-size: 40px&quot; color=&quot;#ff0000&quot;&gt;PRETENTIA&amp;nbsp;&lt;br&gt;PLEBEE&lt;br&gt;de ACCEPTARE&lt;br&gt;de catre ALTII&lt;br&gt;a SCUZELOR&amp;nbsp;&lt;br&gt;FORMULATE&lt;br&gt;TARDIV si COLOCVIAL&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="YdSJETgR0C2G26BqsnBO-1" value="&lt;font style=&quot;font-size: 40px&quot; color=&quot;#ff0000&quot;&gt;PRETENȚIA&amp;nbsp;&lt;br&gt;PLEBEE&lt;br&gt;de ACCEPTARE&lt;br&gt;de către ALȚII&lt;br&gt;a SCUZELOR&amp;nbsp;&lt;br&gt;FORMULATE&lt;br&gt;TARDIV și COLOCVIAL&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="60" y="145" width="440" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="YdSJETgR0C2G26BqsnBO-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=40;fontColor=#FF0000;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="YdSJETgR0C2G26BqsnBO-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=40;fontColor=#FF0000;fillColor=none;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="55" y="45" width="450" height="370" as="geometry" />
         </mxCell>
       </root>
