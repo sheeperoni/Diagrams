@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2022-04-19T10:02:29.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Zxlv0Es_qPPtIH96OsOg" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T14:26:10.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="y21AroSKKQIjRDawstfl" version="17.5.0" type="github">
   <diagram id="4Klv1a1HbTAz1DpUeN2I" name="Page-1">
-    <mxGraphModel dx="1418" dy="1222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="639" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="z7X4BNzyPze6RQQIvAgJ-1" value="&lt;font color=&quot;#330000&quot;&gt;&lt;span style=&quot;font-size: 70px&quot;&gt;CALCULUL&lt;br&gt;SUMATIV&lt;br&gt;al ENTROPIEI&lt;br&gt;PERMISE-ASTEPTATE&lt;br&gt;pentru ARGUMENTELE&lt;br&gt;METODEI&lt;br&gt;INTERFETEI&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="380" width="760" height="240" as="geometry" />
+        <mxCell id="z7X4BNzyPze6RQQIvAgJ-1" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 70px ; color: rgb(51 , 0 , 0)&quot;&gt;CALCULUL&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#330000&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 70px&quot;&gt;SUMATIV&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 70px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;al ENTROPIEI&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;PERMISE-AȘTEPTATE&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;pentru ARGUMENTELE&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;METODEI&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;INTERFEȚEI&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="50" y="430" width="760" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
