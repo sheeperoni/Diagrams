@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-01T20:20:10.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="beFjmYg6NMIM7i9AT3g8" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T12:19:12.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ACKMt88WPxCrPUh5rAAb" version="17.5.0" type="github">
   <diagram id="V1DcwHg9O7BHA0kkWs9D" name="Page-1">
-    <mxGraphModel dx="631" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="639" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="nBs-DhYhoKuDLxI8BUI--4" value="$$\partial_- \equiv DEFICIT$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#069968;" parent="1" vertex="1">
           <mxGeometry x="22" y="428" width="410" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBs-DhYhoKuDLxI8BUI--5" value="RAPORTATE la&lt;br&gt;CONFIGURATIA&lt;br&gt;OPTIMA la&lt;br&gt;PRECEDENTA&lt;br&gt;GENERATIE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#069968;" parent="1" vertex="1">
+        <mxCell id="nBs-DhYhoKuDLxI8BUI--5" value="RAPORTATE la&lt;br&gt;CONFIGURAȚIA&lt;br&gt;OPTIMĂ la&lt;br&gt;PRECEDENTA&lt;br&gt;GENERAȚIE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#069968;" parent="1" vertex="1">
           <mxGeometry x="210" y="523" width="240" height="190" as="geometry" />
         </mxCell>
         <mxCell id="nBs-DhYhoKuDLxI8BUI--6" value="" style="endArrow=none;html=1;rounded=0;fontSize=30;fontColor=#069968;strokeColor=#069968;entryX=0.996;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;" parent="1" source="nBs-DhYhoKuDLxI8BUI--7" target="nBs-DhYhoKuDLxI8BUI--5" edge="1">
@@ -76,13 +76,13 @@
         <mxCell id="nBs-DhYhoKuDLxI8BUI--22" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;fontSize=30;fontColor=#069968;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="600" y="565" width="150" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="nBs-DhYhoKuDLxI8BUI--23" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 15px&quot;&gt;VOLUM SPATIAL&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#069968;" parent="1" vertex="1">
+        <mxCell id="nBs-DhYhoKuDLxI8BUI--23" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 15px&quot;&gt;VOLUM SPAȚIAL&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#069968;" parent="1" vertex="1">
           <mxGeometry x="660" y="320" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBs-DhYhoKuDLxI8BUI--24" value="distanta de trunk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="nBs-DhYhoKuDLxI8BUI--24" value="distanța de trunk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="660" y="433" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nBs-DhYhoKuDLxI8BUI--25" value="EXISTENTA&lt;br&gt;&amp;nbsp;FERESTREI&lt;br&gt;AUTO-POIESICE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="nBs-DhYhoKuDLxI8BUI--25" value="EXISTENȚA&lt;br&gt;&amp;nbsp;FERESTREI&lt;br&gt;AUTO-POIESICE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="640" y="600" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nBs-DhYhoKuDLxI8BUI--26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=15;fontColor=#FF0000;strokeColor=#FF0000;entryX=-0.005;entryY=0.599;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="nBs-DhYhoKuDLxI8BUI--23" edge="1">
