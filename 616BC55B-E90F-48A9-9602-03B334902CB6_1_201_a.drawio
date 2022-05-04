@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-05-04T16:39:00.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.5.0" etag="aI9lUYyZQZRhPzL4RjTe" type="github"><diagram id="O4JTNKSAudgv29Ss7tsC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-04T16:40:31.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="xEAf8kDB1bvo7MLnoeyC" version="17.5.0" type="github">
+  <diagram id="O4JTNKSAudgv29Ss7tsC" name="Page-1">
+    <mxGraphModel dx="482" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QpX2g-xykaBn3Av7nfxY-1" value="&lt;font style=&quot;font-size: 40px&quot; color=&quot;#ff0000&quot;&gt;&quot;IMAGINAȚIE e&lt;br&gt;orice alegi&lt;br&gt;tu să crezi&lt;br&gt;că e.&quot;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="290" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
