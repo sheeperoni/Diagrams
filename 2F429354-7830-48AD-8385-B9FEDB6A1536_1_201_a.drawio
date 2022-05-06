@@ -1,24 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T13:03:02.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="rh2Ok7vIo8rPRiHqTptH" version="18.0.1" type="github" pages="2">
-  <diagram id="_BsU8lWtzmRYa4Sor_J1" name="Page-1">
-    <mxGraphModel dx="736" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="wmxE0lA105cuS4-hq_Jj-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="110" y="141" width="230" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="MFTsC3C2cN4BI56h_8Vh-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&amp;nbsp; USING&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;SYMBOL-STRIPPING&lt;br&gt;MODULO DICTIONARY&lt;br&gt;to MAKE&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;[&lt;/font&gt;XSLT&lt;font color=&quot;#ff0000&quot;&gt;]&amp;nbsp;&lt;/font&gt; &lt;font color=&quot;#ff0000&quot;&gt;[&lt;/font&gt;REGEX&lt;font color=&quot;#ff0000&quot;&gt;]&lt;/font&gt;&lt;br&gt;HAVE PRIVACY &amp;amp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SECRECY&lt;br&gt;by DESIGN&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="wmxE0lA105cuS4-hq_Jj-3" vertex="1">
-          <mxGeometry width="230" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="MFTsC3C2cN4BI56h_8Vh-3" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;fontColor=#FF0000;fillColor=none;" parent="wmxE0lA105cuS4-hq_Jj-3" vertex="1">
-          <mxGeometry x="62" y="78" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="wmxE0lA105cuS4-hq_Jj-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;strokeWidth=2;" vertex="1" parent="wmxE0lA105cuS4-hq_Jj-3">
-          <mxGeometry x="166" y="99" width="20" height="40" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="app.diagrams.net" modified="2022-05-06T13:03:44.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="avCcrzIbYCY_pYLamzu5" version="18.0.1" type="github">
   <diagram id="-zoPkg30J9wNrn0Zdbpc" name="Page-2">
     <mxGraphModel dx="1132" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
